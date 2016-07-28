@@ -2,6 +2,23 @@
 Thumbs.db
 ehthumbs.db
 
+/web/bundles/
+/app/bootstrap.php.cache
+/app/cache/*
+/app/config/parameters.yml
+/app/logs/*
+!app/cache/.gitkeep
+!app/logs/.gitkeep
+/app/phpunit.xml
+/build/
+/vendor/
+/bin/
+/composer.phar
+/nbproject/private/
+*.php~
+/web/app_dev.php
+/Vagrantfile
+
 # Folder config file
 Desktop.ini
 
